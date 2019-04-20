@@ -380,6 +380,7 @@
 * [DREAM-APPLE_KMV](https://telega.yablogo.su/dream_kmv_apple) — ГРАНДИОЗНАЯ СКИДКА 75% НА ГАДЖЕТЫ APPLE И SAMSUNG.
 * [Vintage Cars](https://t.me/vintage_cars) — Винтажные ретро автомобили.
 * [True ПДД](https://telega.yablogo.su/driverules) — Правила дорожного движения, какие они есть на самом деле.
+* [Я - капиталист](https://telega.yablogo.su/yakapitalist) — Про личные финансы.
 
 [(Назад к меню)](#Меню)
 
