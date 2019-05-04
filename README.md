@@ -88,6 +88,7 @@
 * [computerra.ru](https://t.me/computerra_ru) — Компьютерра - легендарный журнал о современных технологиях.
 * [ITGM News](https://t.me/itgmnews) — Новости про [IT Global Meetup](https://piter-united.ru) - глобальный слёт IT сообществ
 * [SALENAMES](https://t.me/salenames) — Новости и блог про домены от первого лица - доменного регистратора.
+* [Time4News](https://telega.yablogo.su/Time4News2) — Самые честные и актуальные новости.
 
 [(Назад к меню)](#Меню)
 
