@@ -383,6 +383,7 @@
 * [Vintage Cars](https://t.me/vintage_cars) — Винтажные ретро автомобили.
 * [True ПДД](https://telega.yablogo.su/driverules) — Правила дорожного движения, какие они есть на самом деле.
 * [Я - капиталист](https://telega.yablogo.su/yakapitalist) — Про личные финансы.
+* [KDM](https://telega.yablogo.su/kdm01) — Канал для Мужиков [KDM]
 
 [(Назад к меню)](#Меню)
 
