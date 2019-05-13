@@ -277,6 +277,7 @@
 * [Crypto-expert](https://telega.yablogo.su/crypto_expert_su) — Аналитика монет, актуальные новости
 * [Фабрика манимейкеров](https://telega.yablogo.su/mmf_ru) — Про бизнес и предпринимателей
 * [make sense](https://t.me/productsense) — Про менеджмент продуктов. Подкаст, блог, рассылка, конференция
+* [cryptoTIME](https://telega.yablogo.su/joinchat/AAAAAEtNBNj3Lp7StR-UzA) — Все новости в одном канале. CryptoTime - канал для всех кто интересуется трендами на рынке криптовалют. В фокусе нашего внимания изменения курсов, основные новости, трейдинг и криптобиржи.
 
 [(Назад к меню)](#Меню)
 
