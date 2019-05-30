@@ -385,6 +385,7 @@
 * [True ПДД](https://telega.yablogo.su/driverules) — Правила дорожного движения, какие они есть на самом деле.
 * [Я - капиталист](https://telega.yablogo.su/yakapitalist) — Про личные финансы.
 * [KDM](https://telega.yablogo.su/kdm01) — Канал для Мужиков [KDM]
+* [Flame Halliwell](https://telega.yablogo.su/ezhikua) — Африканские карликовые ежи - информация, уход, содержание, продажа в Украине.
 
 [(Назад к меню)](#Меню)
 
