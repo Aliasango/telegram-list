@@ -391,6 +391,7 @@
 * [BORDER](https://telega.yablogo.su/jborder) — Журнал Border - Дизайн и технологии.
 * [Добрый Самаритянин](https://telega.yablogo.su/goodSamaritannews) — Вера - это то, что лежит на одной чаше весов, при том что на второй всегда лежит разум.
 * [Судья Мэдвиг](https://telega.yablogo.su/judgegarrison) — Честный судья.
+* [Books in English](https://telega.yablogo.su/audio_englishbooks) — Аудиокниги на английском | Audiobooks | Books in English.
 
 
 [(Назад к меню)](#Меню)
